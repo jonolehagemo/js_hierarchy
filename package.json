@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/jest": "^23.3.12",
+    "jest": "^29.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "neo4j-driver": "^5.2.0"
+  }
+}
